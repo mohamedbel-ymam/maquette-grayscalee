@@ -1,14 +1,8 @@
-
-
-body{
-    padding: 10%%;
-}
-
-
 body{
     background-color: white;
     position: relative;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
+    padding: 10%%;
 }
 #ca{
   color: grey;
@@ -89,7 +83,7 @@ p span{
 }
 
 .container{
-    width: 75%;
+    width: 100%;
     padding-inline: 0px;
     top: 22px;
 }
@@ -126,7 +120,7 @@ footer a{
 }
 
 h5{
-    color: #EDEDED;
+    color: #ebe6e6;
 }
 
 .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show>.nav-link {
@@ -139,7 +133,7 @@ h5{
 }
 
 .breadcrumbliste,.mograycomment,.bg-gris{
-    background-color: #EDEDED;
+    background-color: #ebe6e6;
 }
 
 ol li a{
@@ -184,18 +178,3 @@ button,textarea,input{
 
   color: black;
 }
-
-@media all and (max-width: 400px)
-{
-    body
-    {
-        width: auto;
-    }
-
-    body
-    {
-        width: auto;
-}
-
-
-
